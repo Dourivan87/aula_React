@@ -1,0 +1,36 @@
+.app-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 150px;
+    background-color:#170550 ;
+}
+
+
+.app-header img {
+
+    width: 150px;
+    height: 55px;
+    flex-shrink: 0;
+
+    }
+
+.app-header .app-header-menu {
+
+    display: flex;
+    gap: 30px;
+}    
+
+.app-header .app-header-menu a {
+
+color: #f9f8f8;
+font-family: Exo 2;
+font-size: 18px;
+font-weight: 600;
+
+
+
+}   
+
+
+            
